@@ -1,0 +1,16 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "a backend with js",
+   "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "nargish",
+  "license": "ISC"
+}
